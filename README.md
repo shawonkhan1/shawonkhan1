@@ -22,7 +22,10 @@
 ### 👋 About Me
 
 I am a passionate **Full-Stack Web Developer** specializing in the **MERN stack** (MongoDB, Express.js, React.js, Node.js).  
-Currently pursuing a **Diploma in Computer Science & Technology**, I am dedicated to building real-world, scalable, and efficient web applications.  
+Currently, I am pursuing a **Diploma in Computer Science & Technology** and focusing on building real-world, scalable, and efficient web applications.
+
+I love turning ideas into functional, user-friendly digital experiences — whether it’s a personal project or a team collaboration.
+
 
 - 🚀 Building dynamic, responsive, and secure user-friendly websites and apps.  
 - 🔧 Daily use of React, Node.js, Firebase, MongoDB, Tailwind CSS, and JWT Authentication.  
@@ -60,15 +63,15 @@ Currently pursuing a **Diploma in Computer Science & Technology**, I am dedicate
 
 ---
 
+### 🎓 Achievements & Certifications
 
-
-### 🔝 Top Repositories
-
-<div align="center">
-  ![Top Repos](https://github-contributor-stats.vercel.app/api?username=shawonkhan1&limit=5&theme=dark&combine_all_yearly_contributions=true)
-</div>
+- 🏅 **Certified JavaScript Developer** – Completed certification from Programming Hero  
+- 🏆 **Winner, Local Hackathon 2024** – Developed a plant care tracking app within 24 hours  
+- 📜 **React JS Advanced Course** – Completed from Programming Hero  
+- 🎓 **Diploma in Computer Science & Technology** – Currently pursuing at Borak Polytechnic Institute (Expected graduation: 2026)
 
 ---
+
 
 ### 📫 Contact Me
 
