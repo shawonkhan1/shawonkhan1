@@ -1,10 +1,8 @@
-
-
 <div align="center">
 
 # 💫 Md Shawon
 
-### Full-Stack Web Developer | MERN Stack Enthusiast | Problem Solver
+### Frontend Developer | React.js Enthusiast | Problem Solver
 
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://luxury-crisp-b8374b.netlify.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shawon-khan1/)  
@@ -21,17 +19,15 @@
 
 ### 👋 About Me
 
-I am a passionate **Full-Stack Web Developer** specializing in the **MERN stack** (MongoDB, Express.js, React.js, Node.js).  
-Currently, I am pursuing a **Diploma in Computer Science & Technology** and focusing on building real-world, scalable, and efficient web applications.
-
-I love turning ideas into functional, user-friendly digital experiences — whether it’s a personal project or a team collaboration.
-
+I am a passionate **Frontend Developer** specializing in **React.js** and modern JavaScript frameworks.  
+Currently pursuing a **Diploma in Computer Science & Technology**, I am focused on building responsive and user-friendly web applications.
 
 - 🚀 Building dynamic, responsive, and secure user-friendly websites and apps.  
-- 🔧 Daily use of React, Node.js, Firebase, MongoDB, Tailwind CSS, and JWT Authentication.  
+- 🔧 Daily use of React, Firebase, Tailwind CSS, and JWT Authentication.  
 - 🤝 Open to collaborations and learning new technologies.
 
 ---
+
 ### 💻 Tech Stack & Tools
 
 | Frontend        | Backend         | Database       | Others                |
@@ -42,7 +38,7 @@ I love turning ideas into functional, user-friendly digital experiences — whet
 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff) |                 |                | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff) |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000) |                 |                | ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=ffffff) |
 
-
+---
 
 ### 📊 GitHub Stats
 
@@ -63,15 +59,13 @@ I love turning ideas into functional, user-friendly digital experiences — whet
 
 ---
 
-### 🎓 Achievements & Certifications
+### 🔝 Top Repositories
 
-- 🏅 **Certified JavaScript Developer** – Completed certification from Programming Hero  
-- 🏆 **Winner, Local Hackathon 2024** – Developed a plant care tracking app within 24 hours  
-- 📜 **React JS Advanced Course** – Completed from Programming Hero  
-- 🎓 **Diploma in Computer Science & Technology** – Currently pursuing at Borak Polytechnic Institute (Expected graduation: 2026)
+<div align="center">
+  ![Top Repos](https://github-contributor-stats.vercel.app/api?username=shawonkhan1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-
 
 ### 📫 Contact Me
 
