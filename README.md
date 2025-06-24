@@ -1,17 +1,12 @@
-<h1 align="center">Hi 👋, I'm MD Shawon</h1>
-<h3 align="center">A passionate Full-Stack Web Developer, MERN Stack Enthusiast, and Problem Solver from Bangladesh.</h3>
+# 💫 About Me:
 
-<img align="center" src="https://avatars.githubusercontent.com/u/your-github-id?v=4" alt="md-shawon" width="300" />
+I’m a passionate Full-Stack Web Developer with a strong focus on the MERN stack (MongoDB, Express.js, React.js, Node.js).  
+Currently, I’m pursuing a Diploma in Computer Science & Technology and building real-world projects to sharpen my skills.
 
-<p>
-I'm a dedicated Full-Stack Developer skilled in HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, Firebase, and JWT Authentication.  
-I love building scalable and secure web applications and continuously learning new technologies to improve my craft.  
-Thanks for visiting my profile!
-</p>
+🚀 I specialize in building dynamic, responsive, and secure web applications.  
+🔧 Technologies I work with daily include React, Node.js, Firebase, MongoDB, Tailwind CSS, and JWT Authentication.
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=shawonkhan1&label=Profile%20views&color=0e75b6&style=flat" alt="shawonkhan1" /> 
-</p>
+I enjoy turning ideas into functional, user-friendly digital experiences — whether it's a personal project or a team collaboration.
 
 
 
