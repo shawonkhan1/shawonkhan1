@@ -4,12 +4,21 @@
 
 ### Frontend Developer | React.js Enthusiast | Problem Solver
 
-[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://luxury-crisp-b8374b.netlify.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shawon-khan1/)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MD1Shawon)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shawon505214@gmail.com)
+<div align="center" style="margin: 10px 0;">
+  <a href="https://luxury-crisp-b8374b.netlify.app/" target="_blank" rel="noopener noreferrer" title="Portfolio Website">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/shawon-khan1/" target="_blank" rel="noopener noreferrer" title="LinkedIn Profile" style="margin-left: 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/MD1Shawon" target="_blank" rel="noopener noreferrer" title="Facebook Profile" style="margin-left: 10px;">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:shawon505214@gmail.com" target="_blank" rel="noopener noreferrer" title="Send Email" style="margin-left: 10px;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
----
 
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:996/1*cNpuzy8MvVOMlfCJrxtc8g.png" alt="Cover Image" width="100%" />
