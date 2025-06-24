@@ -8,6 +8,9 @@ Currently, I’m pursuing a Diploma in Computer Science & Technology and buildin
 
 I enjoy turning ideas into functional, user-friendly digital experiences — whether it's a personal project or a team collaboration.
 
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:996/1*cNpuzy8MvVOMlfCJrxtc8g.png" alt="Cover Image" width="100%" />
+</p>
 
 
 ## 🌐 Socials:
