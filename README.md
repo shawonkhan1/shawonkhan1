@@ -1,23 +1,28 @@
-# 💫 About Me:
+# 💫 About Me
 
-I’m a passionate Full-Stack Web Developer with a strong focus on the MERN stack (MongoDB, Express.js, React.js, Node.js).  
-Currently, I’m pursuing a Diploma in Computer Science & Technology and building real-world projects to sharpen my skills.
+I’m a passionate Full-Stack Web Developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js).  
+Currently pursuing a Diploma in Computer Science & Technology, I’m building real-world projects to sharpen my skills.
 
-🚀 I specialize in building dynamic, responsive, and secure web applications.  
-🔧 Technologies I work with daily include React, Node.js, Firebase, MongoDB, Tailwind CSS, and JWT Authentication.
+🚀 I focus on creating dynamic, responsive, and secure web applications.  
+🔧 Daily technologies I work with include React, Node.js, Firebase, MongoDB, Tailwind CSS, and JWT Authentication.
 
-I enjoy turning ideas into functional, user-friendly digital experiences — whether it's a personal project or a team collaboration.
+I enjoy transforming ideas into user-friendly digital experiences — whether personal projects or team collaborations.
 
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:996/1*cNpuzy8MvVOMlfCJrxtc8g.png" alt="Cover Image" width="100%" />
 </p>
 
+---
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/MD1Shawon ) 
+## 🌐 Socials
 
-# 💻 Tech Stack:
-## 🛠️ Technologies & Tools
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/MD1Shawon)
+
+---
+
+## 💻 Tech Stack
+
+### 🛠️ Technologies & Tools
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -36,29 +41,36 @@ I enjoy turning ideas into functional, user-friendly digital experiences — whe
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
+---
 
 ### 🌐 Portfolio  
-[Visit My Portfolio Website](https://luxury-crisp-b8374b.netlify.app/)  
-
-### 📞 Contact Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shawon505214@gmail.com)
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shawonkhan1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shawonkhan1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shawonkhan1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shawonkhan1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shawonkhan1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[Visit My Portfolio Website](https://luxury-crisp-b8374b.netlify.app/)
 
 ---
+
+### 📞 Contact Me  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shawon505214@gmail.com)
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shawonkhan1&theme=dark&show_icons=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shawonkhan1&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shawonkhan1&theme=dark&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies  
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=shawonkhan1&theme=radical&no-bg=true)
+
+---
+
+### 🔝 Top Contributed Repositories  
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=shawonkhan1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=shawonkhan1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
