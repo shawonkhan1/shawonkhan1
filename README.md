@@ -10,7 +10,7 @@ I enjoy turning ideas into functional, user-friendly digital experiences — whe
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MD Shawon ) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/MD1Shawon ) 
 
 # 💻 Tech Stack:
 ## 🛠️ Technologies & Tools
