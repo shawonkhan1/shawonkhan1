@@ -53,13 +53,14 @@ Currently pursuing a **Diploma in Computer Science & Technology**, I am dedicate
 
 ---
 
-### 🏆 GitHub Trophies
+### 🔥 Recent GitHub Activity
 
-<div align="center">
-  ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=shawonkhan1&theme=radical&no-bg=true)
-</div>
+<!-- GitHub contribution calendar (last 1 year) -->
+![GitHub Contribution](https://github-readme-stats.vercel.app/api?username=shawonkhan1&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_rank=true)
 
 ---
+
+
 
 ### 🔝 Top Repositories
 
