@@ -16,9 +16,10 @@
   <a href="https://www.facebook.com/MD1Shawon" target="_blank" rel="noopener noreferrer" title="Facebook Profile" style="margin-left: 10px;">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="mailto:shawon505214@gmail.com" target="_blank" rel="noopener noreferrer" title="Send Email" style="margin-left: 10px;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+ <a href="mailto:shawon505214@gmail.com" target="_blank" rel="noopener noreferrer" title="Send Email">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
 </div>
 
 
