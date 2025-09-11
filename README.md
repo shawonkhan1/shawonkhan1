@@ -84,8 +84,8 @@ Currently pursuing a **Diploma in Computer Science & Technology**, I am focused 
 Feel free to reach out for collaborations, questions, or just to say hi!
 
 - 📧 shawon505214@gmail.com  
-- 🌐 [Portfolio Website](https://luxury-crisp-b8374b.netlify.app/)  
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/shawon-khan1/)  
+- 🌐 [Portfolio Website](https://mdshawon-portfolio.netlify.app/)  
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/mdshawonmolla/)  
 
 ---
 
